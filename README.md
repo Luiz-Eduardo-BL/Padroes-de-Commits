@@ -89,4 +89,4 @@ Agradecemos contribuições para aprimorar este guia. Para contribuir, siga esta
 3. Faça suas alterações e commit.
 4. Envie um pull request para este repositório.
 
-Ao contribuir para este projeto, você concorda com os termos da [Licença MIT](./LICENSE).
+Ao contribuir para este projeto, você concorda com os termos da [Licença MIT](LICENSE.md).
