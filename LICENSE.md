@@ -18,4 +18,4 @@ Este repositório inclui documentação de padrões de commits que descreve as m
 ---
 
 #### Copyright © 2021 / [Luiz Eduardo](https://github.com/Luiz-Eduardo-BL)
-[Texto completo da Licença MIT](./LICENSE)
+[Texto completo da Licença MIT](https://mit-license.org/)
